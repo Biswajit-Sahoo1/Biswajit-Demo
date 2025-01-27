@@ -1,2 +1,4 @@
 # Biswajit-Demo
-this is my first repository
+This is my first repository\ln
+Author:Biswajit Sahoo
+
